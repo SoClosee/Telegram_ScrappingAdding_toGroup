@@ -2,7 +2,7 @@
 Le Bot permet de scrapper les informations utilisateurs dans les groupes telegram Public puis de les ajouter dans l'un de vos groupes.
 
 ## Table des matières:
-* Introduction
+* `Introduction`_
 * Installation
 * Commencer
 * Obtenir de l'aide
