@@ -2,10 +2,10 @@
 Le Bot permet de scrapper les informations utilisateurs dans les groupes telegram Public puis de les ajouter dans l'un de vos groupes.
 
 ## Table des matières:
-* Introduction [introduction]
-* Installation
-* Commencer
-* Obtenir de l'aide
+* [introduction]
+* [installation]
+* [Commencer]
+* [Obtenir de l'aide]
 
 ## Introduction:
 
@@ -25,3 +25,6 @@ Le Bot permet de scrapper les informations utilisateurs dans les groupes telegra
 [instagram]: https://instagram.com/socloseagency
 [linkedin]: https://linkedin.com/in/soclose
 [introduction]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#introduction
+[installation]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#installation
+[Commencer]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#commencer
+[Obtenir de l'aide]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#obtenir-de-laide 
