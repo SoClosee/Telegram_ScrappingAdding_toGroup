@@ -13,16 +13,19 @@ Récupérer les membres de différents groupes et les ajouter à nos groupes dan
 * Python doit être installé sur votre système
 * La version 3 ou supérieure est préférée
 * Les clés d'API Telegram doivent être créées à l'aide de ce lien https://my.telegram.org/auth?to=apps
-
 #### Fonctionnalités:
 * Récupérer les membres de différents groupes et les stocker dans des fichiers CSV
 * Lisez les données des fichiers csv et ajoutez-les à nos groupes en utilisant les méthodes téléthon.
-
 #### Exigences:
 * Tous les packages requis sont placés dans requirements.txt
 * Utilisez la commande "pip install -r -U requirements.txt" pour installer les packages requis.
 
-## Installation: 
+## Installation:
+* Go to http://my.telegram.org and log in.
+* Click on API development tools and fill the required fields.
+* Put app name you want & select other in platform Example :
+* Copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+
 ## Commencer:
 
 ## Obtenir de l'aide:
