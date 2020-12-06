@@ -21,10 +21,20 @@ Récupérer les membres de différents groupes et les ajouter à nos groupes dan
 * Utilisez la commande "pip install -r -U requirements.txt" pour installer les packages requis.
 
 ## Installation:
-* Go to http://my.telegram.org and log in.
-* Click on API development tools and fill the required fields.
-* Put app name you want & select other in platform Example :
-* Copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+Installer le repositorie:
+`$ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git`
+Aller dans le dossier:
+`$ cd Telegram_ScrappingAdding_toGroup`
+Lancer le bot:
+`$ python add1.py`
+
+* Allez sur http://my.telegram.org and log in.
+* Cliquez sur les outils de développement d'API et remplissez les champs obligatoires.
+* Mettez le nom de l'application que vous voulez et sélectionnez une autre dans l'exemple de plate-forme :
+* Copiez "api_id" et "api_hash" après avoir cliqué sur Créer une application. (Sera utilisé dans setup.py)
+
+To install Telethon you can do:
+`python pip install telethon`
 
 ## Commencer:
 
