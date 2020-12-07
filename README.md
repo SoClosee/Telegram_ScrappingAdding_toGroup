@@ -32,7 +32,7 @@ $ cd Telegram_ScrappingAdding_toGroup
 ```
 
 * Ajouter vos identifiants Api Telegram dans add1.py:
-```
+```python
 api_id = XXXXXX
 api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 phone = '+XXXXXXXXXXX'
