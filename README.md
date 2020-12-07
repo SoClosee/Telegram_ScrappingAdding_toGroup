@@ -60,6 +60,7 @@ $ python add1.py
 
 * Selectionner un groupe dans lequel scrapper les membres: (Entrez le numéro du groupe).
 * Selectionner un groupe dans lequel ajouter les membres: (Entrez le numéro du groupe).
+* Le bot tourne.
 
 
 ## Obtenir de l'aide:
