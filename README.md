@@ -22,13 +22,11 @@ Récupérer les membres de différents groupes et les ajouter à nos groupes dan
 
 ## Installation:
 * Installer le repositorie: 
-
 ```
 $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
 ``` 
 
 * Aller dans le dossier:
-
 ```
 $ cd Telegram_ScrappingAdding_toGroup
 ```
