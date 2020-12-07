@@ -18,7 +18,6 @@ Bot Telegram en Python. Permet de récupérer les membres de différents groupes
 * Lisez les données des fichiers csv et ajoutez-les à nos groupes en utilisant les méthodes téléthon.
 #### Exigences:
 * Tous les packages requis sont placés dans requirements.txt
-* Utilisez la commande "pip install -r requirements.txt" pour installer les packages nécessaires.
 
 ## Installation:
 * Installer python: 
@@ -26,9 +25,9 @@ Bot Telegram en Python. Permet de récupérer les membres de différents groupes
 $ sudo pip install python3
 ``` 
 
-* Installer telethon: 
+* Installer les requirements: 
 ```
-$ python pip install telethon
+$ pip install -r requirements.txt
 ``` 
 
 * Cloner le repositorie: 
