@@ -40,9 +40,9 @@ $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
 $ cd Telegram_ScrappingAdding_toGroup
 ```
 
-* Puis aller sur http://my.telegram.org et connectez vous
+* Puis aller sur http://my.telegram.org et connectez vous.
 * Cliquez sur les outils de développement d'API et remplissez les champs obligatoires.
-* Mettez le nom de l'application que vous voulez et sélectionnez une autre dans l'exemple de plate-forme 
+* Mettez le nom de l'application que vous voulez et sélectionnez une autre dans l'exemple de plate-forme. 
 * Copiez "api_id" et "api_hash" après avoir cliqué sur Créer une application. 
 
 * Ajouter vos identifiants Api Telegram dans add1.py:
