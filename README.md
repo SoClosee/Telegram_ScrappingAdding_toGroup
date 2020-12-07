@@ -21,11 +21,11 @@ Récupérer les membres de différents groupes et les ajouter à nos groupes dan
 * Utilisez la commande "pip install -r -U requirements.txt" pour installer les packages requis.
 
 ## Installation:
-Installer le repositorie:<br>
+* Installer le repositorie*:<br>
 ```$ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git``` <br>
-Aller dans le dossier:<br>
+* Aller dans le dossier*:<br>
 ```$ cd Telegram_ScrappingAdding_toGroup```<br>
-Lancer le bot:<br> ```$ python add1.py``` <br>
+* Lancer le bot*:<br> ```$ python add1.py``` <br>
 
 * Allez sur http://my.telegram.org and log in.
 * Cliquez sur les outils de développement d'API et remplissez les champs obligatoires.
