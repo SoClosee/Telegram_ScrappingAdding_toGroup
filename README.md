@@ -8,7 +8,7 @@ Le Bot permet de scrapper les informations utilisateurs dans les groupes telegra
 * [Obtenir de l'aide]
 
 ## Introduction:
-Récupérer les membres de différents groupes et les ajouter à nos groupes dans Telegram à l'aide du forfait Téléthon.
+Bot Telegram en Python. Permet de récupérer les membres de différents groupes et les ajouter à nos groupes dans Telegram à l'aide du forfait Téléthon.
 #### Prérequis:
 * Python doit être installé sur votre système
 * La version 3 ou supérieure est préférée
@@ -29,6 +29,13 @@ $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
 * Aller dans le dossier:
 ```
 $ cd Telegram_ScrappingAdding_toGroup
+```
+
+* Ajouter vos identifiants Api Telegram dans add1.py:
+```
+api_id = XXXXXX
+api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+phone = '+XXXXXXXXXXX'
 ```
 
 * Lancer le bot:
