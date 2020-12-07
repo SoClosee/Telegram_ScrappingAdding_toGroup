@@ -21,6 +21,16 @@ Bot Telegram en Python. Permet de récupérer les membres de différents groupes
 * Utilisez la commande "pip install -r -U requirements.txt" pour installer les packages requis.
 
 ## Installation:
+* Installer python: 
+```
+$ sudo pip install python3 or sudo apt-get install python
+``` 
+
+* Installer telethon: 
+```
+$ python pip install telethon
+``` 
+
 * Installer le repositorie: 
 ```
 $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
@@ -31,6 +41,11 @@ $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
 $ cd Telegram_ScrappingAdding_toGroup
 ```
 
+* Puis aller sur http://my.telegram.org et connectez vous:
+* Cliquez sur les outils de développement d'API et remplissez les champs obligatoires.
+* Mettez le nom de l'application que vous voulez et sélectionnez une autre dans l'exemple de plate-forme :
+* Copiez "api_id" et "api_hash" après avoir cliqué sur Créer une application. 
+
 * Ajouter vos identifiants Api Telegram dans add1.py:
 ```python
 api_id = XXXXXX
@@ -38,20 +53,11 @@ api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 phone = '+XXXXXXXXXXX'
 ```
 
+## Commencer:
 * Lancer le bot:
 ```
 $ python add1.py
 ```
-
-* Allez sur http://my.telegram.org and log in.
-* Cliquez sur les outils de développement d'API et remplissez les champs obligatoires.
-* Mettez le nom de l'application que vous voulez et sélectionnez une autre dans l'exemple de plate-forme :
-* Copiez "api_id" et "api_hash" après avoir cliqué sur Créer une application. (Sera utilisé dans setup.py)
-
-To install Telethon you can do:
-`python pip install telethon`
-
-## Commencer:
 
 ## Obtenir de l'aide:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
