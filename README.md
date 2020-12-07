@@ -76,9 +76,9 @@ Découvre aussi tous nos réseaux sociaux sur lesquels nous sommes très actifs.
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://soclose.co
-[youtube]: https://youtube.com/soclosetv
+[youtube]: https://youtube.com/
 [instagram]: https://instagram.com/socloseagency
-[linkedin]: https://linkedin.com/in/soclose
+[linkedin]: https://www.linkedin.com/company/soclosedigital
 [introduction]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#introduction
 [installation]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#installation
 [Commencer]: https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#commencer
