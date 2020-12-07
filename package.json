@@ -1,0 +1,25 @@
+{
+  "name": "telegram_scrappingadding_togroup",
+  "version": "1.0.0",
+  "description": "Le Bot permet de scrapper les informations utilisateurs dans les groupes telegram Public puis de les ajouter dans l'un de vos groupes.",
+  "main": "add1.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Scrapping",
+    "Adding"
+  ],
+  "author": "SoClose Society",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup/issues"
+  },
+  "homepage": "https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup#readme"
+}
