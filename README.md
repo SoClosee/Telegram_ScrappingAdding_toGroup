@@ -25,11 +25,6 @@ Bot Telegram en Python. Permet de récupérer les membres de différents groupes
 $ sudo pip install python3
 ``` 
 
-* Installer les requirements: 
-```
-$ pip install -r requirements.txt
-``` 
-
 * Cloner le repositorie: 
 ```
 $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
@@ -39,6 +34,11 @@ $ git clone https://github.com/SoClosee/Telegram_ScrappingAdding_toGroup.git
 ```
 $ cd Telegram_ScrappingAdding_toGroup
 ```
+
+* Installer les requirements: 
+```
+$ pip install -r requirements.txt
+``` 
 
 * Puis aller sur http://my.telegram.org et connectez vous.
 * Cliquez sur les outils de développement d'API et remplissez les champs obligatoires.
