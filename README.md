@@ -66,6 +66,7 @@ $ python add1.py
 ## Obtenir de l'aide:
 Pour plus d'information n'hesite pas à nous rejoindre sur [Discord] ou sur [Telegram]!  
 Découvre aussi tous nos réseaux sociaux sur lesquels nous sommes très actifs. 
+<br>
 [SoClose Digital Consulting Team]
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
