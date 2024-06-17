@@ -1,0 +1,14 @@
+{
+    "accounts": [
+        {
+            "api_id": "2042631",
+            "api_hash": "bda930cae9e8b4aceb1aba6704d38cfb",
+            "phone": "+66826200010",
+            "blacklisted": false,
+            "blacklist_time": null
+        }
+    ],
+    "proxies": [
+        "exit"
+    ]
+}
